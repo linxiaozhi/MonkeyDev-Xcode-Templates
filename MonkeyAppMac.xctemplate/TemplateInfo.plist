@@ -30,6 +30,10 @@
 				<string>$(inherited)  -lsubstitute</string>
 				<key>EXECUTABLE_PREFIX</key>
 				<string>lib</string>
+				<key>MONKEYDEV_INSERT_DYLIB</key>
+				<string>YES</string>
+				<key>MONKEYDEV_INSERT_DYLIB_TOOLS</key>
+				<string>MONKEYPARSER</string>
 			</dict>
 			<key>BuildPhases</key>
 			<array>

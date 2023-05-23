@@ -103,6 +103,8 @@
 				<string>___VARIABLE_TargetAppInfo___</string>
 				<key>MONKEYDEV_INSERT_DYLIB</key>
 				<string>YES</string>
+				<key>MONKEYDEV_INSERT_DYLIB_TOOLS</key>
+				<string>MONKEYPARSER</string>
 				<key>PODS_CONFIGURATION_BUILD_DIR</key>
 				<string>$BUILD_DIR/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)</string>
 				<key>MONKEYDEV_CLASS_DUMP</key>
