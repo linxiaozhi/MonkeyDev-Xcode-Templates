@@ -95,6 +95,18 @@
 			<string>com.apple.product-type.application</string>
 			<key>SharedSettings</key>
 			<dict>
+				<key>MonkeyDevDeviceIP</key>
+				<string></string>
+				<key>MonkeyDevDevicePort</key>
+				<string></string>
+				<key>MonkeyDevDeviceUser</key>
+				<string></string>
+				<key>MonkeyDevDevicePassword</key>
+				<string></string>
+				<key>MonkeyDevDeviceIdentityFile</key>
+				<string></string>
+				<key>MonkeyDevDeviceFridaHost</key>
+				<string></string>
 				<key>MONKEYDEV_DEFAULT_BUNDLEID</key>
 				<string>NO</string>
 				<key>MONKEYDEV_ADD_SUBSTRATE</key>

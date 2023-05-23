@@ -31,13 +31,7 @@
 				<string></string>
 				<key>MonkeyDevDevicePort</key>
 				<string></string>
-				<key>MonkeyDevDeviceUser</key>
-				<string></string>
 				<key>MonkeyDevDevicePassword</key>
-				<string></string>
-				<key>MonkeyDevDeviceIdentityFile</key>
-				<string></string>
-				<key>MonkeyDevDeviceFridaHost</key>
 				<string></string>
 				<key>MonkeyDevInstallOnProfiling</key>
 				<string>YES</string>
