@@ -127,6 +127,10 @@
 				<string>${SRCROOT}/Pods</string>
 				<key>ENABLE_BITCODE</key>
 				<string>NO</string>
+				<key>GENERATE_INFOPLIST_FILE</key>
+				<string>NO</string>
+				<key>INFOPLIST_FILE</key>
+				<string>___PACKAGENAME___/Info.plist</string>
 			</dict>
 			<key>BuildPhases</key>
 			<array>
