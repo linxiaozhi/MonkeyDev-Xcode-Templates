@@ -10,6 +10,8 @@
 	<true/>
 	<key>Description</key>
 	<string>This template builds a command-line tool.</string>
+	<key>SortOrder</key>
+	<integer>5</integer>
 	<key>Ancestors</key>
 	<array>
 		<string>com.monkey.monkeydev.base</string>

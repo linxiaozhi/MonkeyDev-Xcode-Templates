@@ -10,6 +10,8 @@
 	<true/>
 	<key>Description</key>
 	<string>This template builds a Logos-based Substrate Tweak.</string>
+	<key>SortOrder</key>
+	<integer>4</integer>
 	<key>Ancestors</key>
 	<array>
 		<string>com.monkey.monkeydev.base</string>

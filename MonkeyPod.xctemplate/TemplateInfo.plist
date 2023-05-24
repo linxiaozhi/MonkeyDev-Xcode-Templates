@@ -17,7 +17,7 @@
 	<key>Description</key>
 	<string>This template creates a framework that uses UIKit.</string>
 	<key>SortOrder</key>
-	<integer>1</integer>
+	<integer>2</integer>
 	<key>AssociatedTargetSpecification</key>
 	<dict>
 		<key>PopUpTitle</key>

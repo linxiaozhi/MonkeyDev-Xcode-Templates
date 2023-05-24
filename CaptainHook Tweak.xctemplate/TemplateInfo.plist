@@ -10,6 +10,8 @@
 	<true/>
 	<key>Description</key>
 	<string>This template builds a CaptainHook-based Substrate Tweak.</string>
+	<key>SortOrder</key>
+	<integer>3</integer>
 	<key>Ancestors</key>
 	<array>
 		<string>com.monkey.monkeydev.base</string>
